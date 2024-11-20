@@ -4,7 +4,7 @@ Plugin Name: Ashe Extra
 Plugin URI: http://wordpress.org/plugins/ashe-extra/
 Description: Adds One Click Demo Import functionality for Ashe theme.
 Author: WP Royal
-Version: 1.2.92
+Version: 1.2.93
 License: GPLv2 or later
 Author URI: https://wp-royal.com/
 Text Domain: ashe-extra
