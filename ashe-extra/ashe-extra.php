@@ -493,7 +493,7 @@ if ( ! class_exists( 'Ashextra_Options' ) ) {
 				'blog_page_show_facebook' => true,
 				'blog_page_show_twitter' => true,
 				'blog_page_show_pinterest' => true,
-				'page_footer_copyright' => '© 2024 - All Rights Reserved.',
+				'page_footer_copyright' => '© 2025 - All Rights Reserved.',
 		    );
 		    update_option( 'ashe_options', $custom_theme_options );
 
