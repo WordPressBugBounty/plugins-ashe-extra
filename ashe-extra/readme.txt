@@ -1,7 +1,7 @@
 === Ashe Extra ===
 Contributors: WP Royal
-Stable tag: 1.3
-Tested up to: 6.7
+Stable tag: 1.4
+Tested up to: 7.02
 Requires at least: 4.6
 License: GPLv2 or later
 

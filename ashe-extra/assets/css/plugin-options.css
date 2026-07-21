@@ -1,14 +1,23 @@
+#ashe-demo-import {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #ashe-demo-import span {
   display: inline-block;
+  width: 14px;
+  height: 14px;
   font-size: 14px;
-  line-height: 20px;
-  margin-top: 5px;
+  line-height: 1;
   margin-left: 3px;
+  transform-origin: center center;
 }
 
 .dashicons.spin {
    animation: dashicons-spin 1s infinite;
    animation-timing-function: linear;
+   transform-origin: center center;
 }
 
 @keyframes dashicons-spin {
